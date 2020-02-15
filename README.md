@@ -1,4 +1,4 @@
-# Forecasting_stock_with_LSTM
+# Forecasting stock with LSTM
 
 ### Aim and motivation
 LSTM have truly changed the way sequential data is forecasted. My goal here is to create basic reference for LSTM here.
